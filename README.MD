@@ -18,6 +18,8 @@
 
 https://github.com/nitinkumar30/track-phone-number/issues/1#issue-1827996558
 
+![Output of the tool](phoneNumberTrack_output.png)
+
 # Required Libraries
 
 > Just open [requirements.txt](requirements.txt) file and install all libraries from there using following command:  
