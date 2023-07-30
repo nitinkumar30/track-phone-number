@@ -13,7 +13,6 @@
 
 > userLocation.html file will be created after successful run of the script.  
 
-
 # Output
 
 
