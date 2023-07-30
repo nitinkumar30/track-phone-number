@@ -16,7 +16,7 @@
 
 # Output
 
-![img.png](img.png)
+
 
 # Required Libraries
 
